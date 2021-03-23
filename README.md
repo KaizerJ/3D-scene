@@ -4,7 +4,7 @@
 
 ## Descripción
 
-En este proyecto se recrea una escena 3D de una habitación (las paredes tienen una textura que provoca una ilusión óptica de profundidad) y una figura 3D flotante. La figura es la escultura egicia de Nefertiti. (Otras figuras también están disponibles en la carpeta).
+En este proyecto se recrea una escena 3D de una habitación (las paredes tienen una textura que provoca una ilusión óptica de profundidad) y una figura 3D flotante. La figura es la escultura egipcia de Nefertiti. (Otras figuras también están disponibles en la carpeta).
 
 Se permite rotar la cámara entorno al model usando el click izquierdo y arrastrar del ratón. También se puede hacer zoom usando la rueda del ratón o click derecho y arrastrar arriba y abajo.
 
